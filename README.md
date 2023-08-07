@@ -1,4 +1,3 @@
-# blockchain-java-springboot
 
 <img width="587" alt="image" src="https://github.com/inbox-pj/blockchain-java-springboot/assets/53929164/52771393-4f60-4aac-901d-488b15a6522e">
 
