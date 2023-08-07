@@ -6,6 +6,8 @@
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
+  	- [Block Structure](#block-structure)
+  	- [2FA Scenario](#2fa-Scenario)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
