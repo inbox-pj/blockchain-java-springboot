@@ -14,11 +14,10 @@
 - [License](#license)
 
 ## About
-<project-description>
-Briefly describe your blockchain project and its goals.
+
 
 ## Features
-- List the main features and functionalities of your blockchain project.
+
 
 ## Getting Started
 ### Block Structure:
@@ -82,33 +81,25 @@ Briefly describe your blockchain project and its goals.
 Private Key -> (Elliptic Curve) => Public Key -> (Hashing) => Address
 
 ## Prerequisites
-List all the prerequisites that the user needs to have installed on their system before running your project. For example:
-- Java JDK (version x.x.x or higher)
-- Spring Boot (version x.x.x or higher)
-- Maven (version x.x.x or higher)
-- ...
+
 
 ## Installation
-Provide detailed installation steps for setting up your project. Include any additional configurations or steps needed to run the project.
+
 
 ## Usage
-Explain how to use your blockchain project. Include any relevant commands, endpoints, or user interfaces. For example:
-1. Clone the repository: `git clone https://github.com/<username>/<project-name>.git`
-2. Navigate to the project directory: `cd <project-name>`
-3. Run the project: `mvn spring-boot:run`
-4. Access the application: Open your web browser and go to `http://localhost:<port>`
+
 
 ## API Documentation
-If your project exposes APIs, provide a link to the API documentation here. You can use tools like Swagger or Springfox to generate API documentation automatically.
+
 
 ## Contributing
-Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests. Provide information about coding standards and other practices.
+
 
 ## License
-State the license under which your project is distributed. For example, you can use the MIT License, Apache License 2.0, etc. Make sure to add a `LICENSE` file in the repository with the full license text.
+
 
 ## Contact
-Provide contact information (e.g., email address) for users or developers who want to get in touch with you regarding the project.
+
 
 ---
 
