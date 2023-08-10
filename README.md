@@ -105,4 +105,10 @@ Private Key -> (Elliptic Curve) => Public Key -> (Hashing) => Address
 
 ---
 
+
+
+
+
+IN-PROGRESS...
+
 Feel free to expand the sections and add more information as needed. A well-structured and comprehensive README.md file is essential for helping others understand and use your blockchain project effectively.
