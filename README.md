@@ -1,3 +1,5 @@
+IN-PROGRESS...
+
 
 <img width="587" alt="image" src="https://github.com/inbox-pj/blockchain-java-springboot/assets/53929164/52771393-4f60-4aac-901d-488b15a6522e">
 
@@ -105,10 +107,5 @@ Private Key -> (Elliptic Curve) => Public Key -> (Hashing) => Address
 
 ---
 
-
-
-
-
-IN-PROGRESS...
 
 Feel free to expand the sections and add more information as needed. A well-structured and comprehensive README.md file is essential for helping others understand and use your blockchain project effectively.
