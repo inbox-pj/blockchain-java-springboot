@@ -1,6 +1,3 @@
-IN-PROGRESS...
-
-
 <img width="587" alt="image" src="https://github.com/inbox-pj/blockchain-java-springboot/assets/53929164/52771393-4f60-4aac-901d-488b15a6522e">
 
 
@@ -8,8 +5,8 @@ IN-PROGRESS...
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  	- [Block Structure](#block-structure)
-  	- [2FA Scenario](#2fa-Scenario)
+  - [Block Structure](#block-structure)
+  - [2FA Scenario](#2fa-Scenario)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -28,21 +25,21 @@ IN-PROGRESS...
 
 - Block Size
 - Block Header
-	- Version
-	- hash
-	- Previous Block Hash
-	- Merkle Root
-	- Timestamp
-	- Difficulty Target
-	- Nonce 
+    - Version
+    - hash
+    - Previous Block Hash
+    - Merkle Root
+    - Timestamp
+    - Difficulty Target
+    - Nonce
 - Transaction Counter
 - Transactions
-	- Hash Id
-	- Amount
-	- Fee
-	- From
-	- To
-	- Status
+    - Hash Id
+    - Amount
+    - Fee
+    - From
+    - To
+    - Status
 
  ```json
 {
